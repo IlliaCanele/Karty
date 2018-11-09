@@ -1,0 +1,141 @@
+<link href="https://fonts.googleapis.com/css?family=Italianno|Oswald&amp;subset=latin-ext" rel="stylesheet"></link>
+<link href="https://fonts.googleapis.com/css?family=Cinzel&amp;subset=latin-ext" rel="stylesheet"></link>
+
+
+<!-- najlepiej nie ruszać -->
+<style type="text/css">
+.post-body img {
+padding: 0px !important;
+box-shadow: none !important;
+}
+
+.post-body {
+padding-bottom: 0px !important;
+padding-top: 0px !important;
+}
+
+.fancy {
+    line-height: 0;
+    text-align: center;}
+
+
+.fancy span {
+    display: inline-block;
+    position: relative;  }
+
+
+.fancy span:before,
+.fancy span:after {
+    content: "";
+    position: absolute;
+    height: 0px;
+    border-top: 2px solid #af7835;
+    top: 0;
+    width: 40px;}
+
+
+.fancy span:before {
+    right: 100%;
+    margin-right: 15px;}
+
+
+.fancy span:after {
+    left: 100%;
+    margin-left: 15px;}</style>
+
+<script language="JavaScript" type="text/javascript"><!--
+function HideContent(d) {
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+document.getElementById(d).style.display = "block";
+}
+function ReverseDisplay(d) {
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+else { document.getElementById(d).style.display = "none"; }
+}
+//--></script>
+
+
+
+
+<!-- zdjęcia na górze wraz z resztą cytatu -->
+<div style="margin-left: -42px;">
+<img border="0" src="https://imgur.com/YnhkODU.png" data-original-width="800" data-original-height="336" height="250"/></div>
+
+<div style="text-align: right; margin-right: -42px; margin-top: -256px;">
+<img border="0" src="https://imgur.com/BX1ucBN.png" data-original-width="800" data-original-height="336" height="250" style="border-bottom: none; border-left: 5px solid #321914; border-top: none;"/></div>
+
+<div style="margin-top: -170px; margin-left: 140px; position: relative; z-index: 2; padding-left: 10px; line-height: 180%;">
+<span style="font-family: 'Oswald', sans-serif; font-size: 30px; text-transform: uppercase; text-shadow: 1.5px 1.5px #28120f; color: #fff;">u których stwierdzono wręcz<br/>niepoczytalną skłonność do</span></div>
+
+
+<div style="margin-top: -10px; margin-left: 320px; position: relative; z-index: 2; padding-left: 10px; line-height: 180%;">
+<span style="font-family: 'Italianno', cursive; font-size: 50px; color: #af7835; text-shadow: 0.5px 0.5px #28120f , 0px 0px 5px rgba(0,0,0,0.3);">okrucieństwa</span></div>
+
+<hr align="right" color="#321914!important" hr="" size="2px!important" style="border-color: #321914; border: 1px solid #321914; margin-left: 513px; margin-top: -40px; position: relative; z-index: 1;" width="35px" />
+
+<hr align="right" color="#321914!important" hr="" size="2px!important" style="border-color: #321914; border: 1px solid #321914; margin-left: 152px; margin-top: 24px; position: relative; z-index: 1;" width="170px" />
+
+<div style="background-color: #321914; margin-left: -41px; margin-right: -41px; margin-top: 90px; padding: 2px 8px 2px 8px; text-align: center;">
+<span style="font-family: 'Cinzel', serif; font-size: 16px; text-shadow: 1.5px 1.5px #28120f; text-transform: uppercase;">agresji, gwałtownych wybuchów gniewu, czy wybujały temperament</span></div>
+
+
+<!-- zdjęcia z boku -->
+<div style="position: relative; z-index: 2; transform: rotate(90deg); text-align: left; margin-top: 110px; margin-left: 500px; margin-right: -130px; margin-bottom: 0px;">
+<span style="font-family: 'Oswald', sans-serif; font-size: 20px; text-transform: uppercase; text-shadow: 1.5px 1.5px #28120f; color: #fff;">aesthetics</span></div>
+
+<div style="text-align: right; margin-top: -130px;">
+<img border="0" src="https://imgur.com/jwUKIik.png" data-original-width="564" data-original-height="564" width="130" style="border: 1px solid #321914;"/><br />
+<img border="0" src="https://imgur.com/ARCpE21.png" data-original-width="564" data-original-height="564" width="130" style="border: 1px solid #321914;"/><br />
+<img border="0" src="https://imgur.com/xiOkjGH.png" data-original-width="564" data-original-height="564" width="130" style="border: 1px solid #321914;"/>
+</div>
+
+
+<!-- tekst karty (fajnie byłoby jakby sięgał do końca zdjęć, ale jak wyjdzie dłuższy to spróbuję coś pokombinować nad czcionką chociażby) -->
+<div style="text-align: justify; margin-right: 150px; margin-top: -405px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus molestie ex sit amet venenatis. Sed quis sapien id orci luctus laoreet. Donec pulvinar non neque eget facilisis. Morbi purus velit, interdum non sapien ut, ullamcorper laoreet ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce semper tortor sed justo rhoncus auctor. Maecenas ac vulputate nibh, ut fringilla purus. Vestibulum ullamcorper augue sed faucibus mollis. Maecenas in nisl consequat tortor aliquam pulvinar. Nullam et est efficitur, hendrerit est vel, mollis tellus. Phasellus nec justo gravida, imperdiet neque non, auctor ex. Pellentesque bibendum mollis diam eu convallis. Aliquam ut lorem id felis varius consectetur in ut tellus.<br/>
+Mauris vel imperdiet urna. Nullam quis pretium leo. Phasellus eu leo ut leo euismod aliquet non ut mi. Suspendisse vitae rhoncus nisl. In vulputate pretium ante, quis efficitur sapien. In egestas, nisi in mattis vestibulum, neque tellus pulvinar elit, sed porta odio lectus vel metus. Quisque pretium euismod luctus. In eget odio at nibh semper finibus sit amet non magna. Pellentesque et aliquet eros. Etiam scelerisque nisi eget urna fringilla pellentesque. Quisque id scelerisque libero, nec ornare enim. Aenean a quam fringilla, blandit sapien sed, dapibus diam. Duis tellus mi, tristique ac velit sed, euismod bibendum neque.</div>
+
+
+<!-- zdjęcia na dole -->
+<div style="text-align: center; margin-top: 20px; position: relative; z-index: 2;">
+<img border="0" src="https://imgur.com/NjWJQKj.png" data-original-width="640" data-original-height="773" height="400" style="border-right: 5px solid #321914; border-left: 5px solid #321914; border-bottom: 2px solid #321914; border-top: 2px solid #321914;"/></div>
+
+<div style="text-align: left; margin-top: -409px; margin-left: -41px; position: relative; z-index: 1;">
+<img border="0" src="https://imgur.com/S0HBx4A.png" data-original-width="640" data-original-height="773" height="400" style="border: 2px solid #321914; border-left: none; border-right: none;"/></div>
+
+<div style="text-align: right; margin-top: -408.5px; margin-right: -41px; position: relative; z-index: 1;">
+<img border="0" src="https://imgur.com/OiRdRj8.png" data-original-width="640" data-original-height="773" height="400" style="border: 2px solid #321914; border-left: none; border-right: none;"/></div>
+
+
+
+
+<!-- imiona -->
+<div style="background-image: linear-gradient(-90deg, #0c0404, #311b15); border: 1px solid #321914; border-left: none; border-right: none; margin-left: -41px; margin-right: -41px; margin-top: 0px; padding: 5px 8px 5px 8px; text-align: right; line-height: 100%;">
+<span style="font-family: 'Cinzel', serif; font-size: 16px; text-shadow: 1.5px 1.5px #28120f; letter-spacing: 15px; text-transform: uppercase;">Imię i nazwisko</span></div>
+
+<div style="position: relative; z-index: 2; margin-top: -60px; margin-bottom: 0px; text-align: left;">
+<span style="font-family: 'Oswald', sans-serif; font-size: 60px; color: #af7835; text-shadow: 1.5px 1.5px #28120f , 0px 0px 5px rgba(0,0,0,0.3); text-transform: uppercase; letter-spacing: 8px;"><a class="przycisk2" href="javascript:ReverseDisplay('Identyfikator2')">Carman</a></span></div>
+
+<!-- podstawowe informacje (ukryte, klikać w Carman) -->
+<div id="Identyfikator2" style="display: none;">
+<div style="border-bottom: 2px solid #321914; border-left: none; border-right: none; font-size: 14px; line-height: 95%; margin-left: -20px; margin-right: -20px; margin-top: -20px; padding-bottom: 7px; position: relative; text-align: justify; text-shadow: rgb(0 , 0 , 0) 0px 0px 5px; z-index: 1; margin-bottom: 20px;">
+<span style="font-family: 'Cinzel', serif;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus molestie ex sit amet venenatis. Sed quis sapien id orci luctus laoreet. Donec pulvinar non neque eget facilisis. Morbi purus velit, interdum non sapien ut, ullamcorper laoreet ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce semper tortor sed justo rhoncus auctor. Maecenas ac vulputate nibh, ut fringilla purus. Vestibulum ullamcorper augue sed faucibus mollis. Maecenas in nisl consequat tortor aliquam pulvinar. Nullam et est efficitur, hendrerit est vel, mollis tellus. Phasellus nec justo gravida, imperdiet neque non, auctor ex. Pellentesque bibendum mollis diam eu convallis. Aliquam ut lorem id felis.</span></div>
+</div>
+
+
+
+<!-- odautorsko -->
+<div style="margin-right: 60px; margin-top: -35px; text-align: right; position: relative; z-index: 3;">
+<span style="font-family: 'Italianno', cursive; font-size: 30px; text-shadow: 0.5px 0.5px #28120f;">odautorsko</span></div>
+<div style="line-height: 0%; margin-left: 60px; margin-right: 60px; margin-top: -13px; text-align: justify;">
+<div class="separator" style="clear: left; float: left; margin-bottom: -10px; margin-right: 5px; margin-top: 0px; text-align: center;">
+<img border="0" data-original-height="220" data-original-width="220" src="https://imgur.com/ivMCq88.gif" style="border: 1px dotted #af7835;" width="100" /></div>
+<div style="line-height: 100%; text-align: justify; font-size: xx-small;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque tempus molestie ex sit amet venenatis. Sed quis sapien id orci luctus laoreet. Donec pulvinar non neque eget facilisis. Morbi purus velit, interdum non sapien ut, ullamcorper laoreet ante. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce semper tortor sed justo rhoncus auctor. Maecenas ac vulputate nibh, ut fringilla purus. Vestibulum ullamcorper augue sed faucibus mollis. Maecenas in nisl consequat tortor aliquam pulvinar. Nullam et est efficitur, hendrerit est vel, mollis tellus. Phasellus nec justo gravida, imperdiet neque non, auctor ex. Pellentesque bibendum mollis diam eu convallis. Aliquam ut lorem id felis.<br />
+<br />
+<div style="margin-top: 10px; text-align: center; margin-bottom: -13px;">
+<span style="color: #af7835; font-family: 'Italianno', cursive; font-size: 30px; text-shadow: 1px 1px #28120f , 0px 0px 5px #191919;">email@gmail.com</span></div>
+</div>
+</div>
